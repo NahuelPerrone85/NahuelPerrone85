@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/ede47943-a3e8-415b-860b-aa5e36bd283a)
+![banner2](https://github.com/user-attachments/assets/e182b392-2ee3-4cbc-9b1f-4e4fa1fafa87)
 
 ### Hola 👋, Soy Nahuel Perrone
 
