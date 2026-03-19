@@ -6,7 +6,7 @@
 - Apasionado por la tecnología y el desarrollo web
 - Actualmente estoy adquiriendo experiencia en desarrollo web y aplicaciones móviles, en proyectos Academicos
 
-- 🔭 Estoy trabajando en https://github.com/NahuelPerrone85/sp109-challeng3.me
+- 🔭 Estoy trabajando en https://github.com/NahuelPerrone85/Namaste-Yoga
 
 Mis Habilidades: Full-Stack Developer | Python | JavaScript | React | Node.js | APIs | SQL
 
