@@ -1,5 +1,6 @@
 
-![261](https://github.com/user-attachments/assets/448afa25-dfd6-4b2a-8aa7-971e64f6a709)
+<img width="2048" height="1972" alt="Family" src="https://github.com/user-attachments/assets/72f1a4b5-76d6-4f4c-8a46-46a8477d049c" />
+
 
 ### Hola 👋, Soy Nahuel Perrone
 
