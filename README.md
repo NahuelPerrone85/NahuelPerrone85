@@ -1,4 +1,5 @@
-![banner2](https://github.com/user-attachments/assets/e182b392-2ee3-4cbc-9b1f-4e4fa1fafa87)
+
+![261](https://github.com/user-attachments/assets/448afa25-dfd6-4b2a-8aa7-971e64f6a709)
 
 ### Hola 👋, Soy Nahuel Perrone
 
@@ -8,7 +9,7 @@
 
 - 🔭 Estoy trabajando en https://github.com/NahuelPerrone85/Namaste-Yoga
 
-Mis Habilidades: Full-Stack Developer | Python | JavaScript | React | Node.js | APIs | SQL
+Mis Habilidades: Full-Stack Developer | TypeScript | Python | JavaScript | React | Node.js | APIs | SQL
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NahuelPerrone85)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahuelperrone/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahuelperrone/)  
