@@ -1,5 +1,5 @@
 
-<img width="2048" height="1972" alt="Family" src="https://github.com/user-attachments/assets/86f4401c-a636-4aa3-b563-8ab9e5b59068" />
+<img width="2048" height="972" alt="Family" src="https://github.com/user-attachments/assets/86f4401c-a636-4aa3-b563-8ab9e5b59068" />
 
 
 ### Hola 👋, Soy Nahuel Perrone
