@@ -104,9 +104,6 @@ Soy un desarrollador Full Stack apasionado por crear experiencias digitales de a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NahuelPerrone85&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelPerrone85&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahuelPerrone85&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
@@ -115,14 +112,6 @@ Soy un desarrollador Full Stack apasionado por crear experiencias digitales de a
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NahuelPerrone85&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true)](https://github.com/NahuelPerrone85)
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NahuelPerrone85&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
